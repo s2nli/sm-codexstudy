@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "nirman-batch-2026",
+      "name": "Nirmaan batch",
+      "byName": "Science Foundation",
+      "language": "Hinglish",
+      "category": "science",
+      "previewImage": "assets/nirman-batch.jpg",
+      "type": "NIRMAN_BATCH",
+      "slug": "nirmaan-batch-science-foundation",
+      "dataFile": "nirman-data.json",
+      "subBatches": [
+        {
+          "name": "Biology"
+        },
+        {
+          "name": "Physics"
+        },
+        {
+          "name": "Chemistry"
+        }
+      ]
+    }
+  ]
+}
